@@ -1,10 +1,8 @@
-JHipster Maven BOM
-------------------
+JHipster dependencies
+---------------------
 
-[![Build Status][travis-image]][travis-url] [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.jhipster/jhipster-dependencies/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.jhipster/jhipster-dependencies)
+This repository is discontinued as it was merged into a subdirectory of
+the JHipster server-side library. Please refer to:
 
-This pom contains Maven dependency management for all JHipster generated projects
+https://github.com/jhipster/jhipster/
 
-
-[travis-image]: https://travis-ci.org/jhipster/jhipster-dependencies.svg?branch=master
-[travis-url]: https://travis-ci.org/jhipster/jhipster-dependencies
